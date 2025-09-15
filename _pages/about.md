@@ -1,10 +1,6 @@
-<!-- ---
-layout: home
-title: home
-permalink: /
------- --> s
+---
 layout: about
-title: home
+title: about
 permalink: /
 subtitle: > 
   <a href="https://www.biorxiv.org/content/10.1101/2025.03.30.646233v3">Fitness Landscape Design</a> & Physics of Evolution<br />
