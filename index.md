@@ -1,4 +1,8 @@
----
+<!-- ---
+layout: home
+title: home
+permalink: /
+------ --> s
 layout: about
 title: home
 permalink: /
