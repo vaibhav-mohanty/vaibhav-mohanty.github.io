@@ -11,6 +11,6 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography --file presentations --template presentation %}
+{% bibliography --file presentations %}
 
 </div>
