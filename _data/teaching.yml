@@ -12,7 +12,7 @@
   year: 2024
   term: "Fall 2024"
   level: "Graduate Course"
-  note: "Certificate of Distinction in Teaching, Department of Chemistry and Chemical Biology. Perfect 5.0/5.0 student evaluations across all categories."
+  note: "Certificate of Distinction in Teaching, Department of Chemistry and Chemical Biology. Perfect 5.0/5.0 student evaluations in all categories."
 
 - place: "Harvard University"
   course: "Chemistry 161: Statistical Thermodynamics"
@@ -22,10 +22,11 @@
   level: "Undergraduate Course"
   note: "Certificate of Distinction in Teaching, Department of Chemistry and Chemical Biology"
 
-- place: "HVIET: Harvard Summer Program in Vietnam"
+- place: "Harvard Summer Program in Vietnam (HVIET): The Science of Sound: Physics, Cognition, and Computation"
   role: "Seminar Leader and Blue House Co-Leader"
   year: 2019
   term: "Summer 2019"
+  level: "Seminar for High Schoolers"
 
 - place: "Harvard University"
   course: "Science of the Physical Universe 13: Why You Hear What You Hear: The Science of Music and Sound"
@@ -53,40 +54,48 @@
   role: "Teaching Fellow"
   year: 2017
   term: "Fall 2017"
+  level: "Undergraduate Short Course"
 
 - place: "Harvard University"
   course: "MATLAB Boot Camp"
   role: "Teaching Fellow"
   year: 2017
   term: "Spring 2017"
+  level: "Undergraduate Short Course"
 
 - place: "Harvard University"
   course: "MATLAB Boot Camp"
   role: "Teaching Fellow"
   year: 2016
   term: "Fall 2016"
+  level: "Undergraduate Short Course"
 
 - place: "Charleston County School District"
   role: "Summer Fine Arts Instructor"
   year: 2016
   term: "June 2016"
+  level: "Middle and High School Students"
 
 - place: "Charleston County School District"
   role: "Summer Fine Arts Instructor"
   year: 2015
   term: "June 2015"
+  level: "Middle and High School Students"
 
 - place: "Barbara Manaker Piano Studio"
   role: "Instructor of Music Theory"
   year: 2015
   term: "2013–2015"
+  level: "Elementary, Middle, and High School Students"
 
 - place: "Charleston County School District"
   role: "Summer Fine Arts Intern"
   year: 2014
   term: "June 2014"
+  level: "Middle and High School Students"
 
 - place: "Charleston County School District"
   role: "Summer Fine Arts Intern"
   year: 2013
   term: "June 2013"
+  level: "Middle and High School Students"

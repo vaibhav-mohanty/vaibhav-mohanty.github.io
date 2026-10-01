@@ -17,7 +17,8 @@ nav_order: 5
   {% for item in year.items %}
     <li>
       <div class="title">{{ item.place }}{% if item.course %}, {{ item.course }}{% endif %}</div>
-      <div class="periodical"><em>{{ item.role }}</em>{% if item.term %}, {{ item.term }}{% endif %}</div>
+      <div class="periodical"><em>{{ item.role }}</em></div>
+      {% if item.term or item.level %}<div class="periodical">{{ item.term }}{% if item.term and item.level %}, {% endif %}{{ item.level }}</div>{% endif %}
       {% if item.note %}<div class="periodical">{{ item.note }}</div>{% endif %}
     </li>
   {% endfor %}
