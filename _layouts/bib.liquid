@@ -1,5 +1,6 @@
 ---
 ---
+{% assign is_presentation = false %}{% if page.permalink == '/presentations/' or entry.venue %}{% assign is_presentation = true %}{% endif %}
 <div class="row">
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
@@ -7,7 +8,7 @@
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="color: #fff !important; background-color:' | append: '"' %}
           {%- endif -%}
           <abbr
             class="badge rounded w-100"
@@ -18,7 +19,7 @@
             {% if site.data.venues[entry.abbr].url %}
               <a href="{{ site.data.venues[entry.abbr].url }}">{{ entry.abbr }}</a>
             {% else %}
-              <div>{{- entry.abbr -}}</div>
+              <div style="color: #fff !important;">{{- entry.abbr -}}</div>
             {% endif %}
           </abbr>
         {% else %}
@@ -49,6 +50,7 @@
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">{{ entry.title }}</div>
+    {% unless is_presentation %}
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -147,7 +149,21 @@
         </i>
       {% endif %}
     </div>
+    {% endunless %}
 
+    {% if is_presentation %}
+    <!-- Presentation: venue and place, no year -->
+    <div class="periodical">
+      {%- if entry.venue -%}<em>{{ entry.venue }}</em>{%- endif -%}
+      {%- if entry.venue and entry.location -%}, {% endif -%}
+      {{- entry.location -}}
+    </div>
+    {% if entry.note %}
+      <div class="periodical">
+        {{ entry.note | strip }}
+      </div>
+    {% endif %}
+    {% else %}
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
     {% assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' %}
@@ -184,6 +200,7 @@
     <div class="periodical">
       {{ entry.note | strip }}
     </div>
+    {% endif %}
 
     <!-- Links/Buttons -->
     <div class="links">
