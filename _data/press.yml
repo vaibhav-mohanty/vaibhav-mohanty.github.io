@@ -13,6 +13,21 @@
   date: "2026-09"
   url: https://current.fas.harvard.edu/stories/how-build-evolutionary-trap-viruses
 
+- title: "AI and biophysics unite to forecast high-risk viral variants before outbreaks"
+  outlet: "Medical Xpress"
+  date: "2025-07"
+  url: https://medicalxpress.com/news/2025-07-ai-biophysics-high-viral-variants.html
+
+- title: "Forecasting the next variant"
+  outlet: "Harvard Gazette"
+  date: "2025-07"
+  url: https://news.harvard.edu/gazette/story/2025/07/forecasting-the-next-variant/
+
+- title: "Vaibhav Mohanty wins DBIO Early Career Prize Session, First Place"
+  outlet: "Harvard Department of Chemistry and Chemical Biology"
+  date: "2025-04"
+  url: https://www.chemistry.harvard.edu/news/2025/04/vaibhav-mohanty-wins-dbio-early-career-prize-session-first-place
+
 - title: "Fitness, Physics, and Fighting Pathogens"
   outlet: "Harvard Graduate School of Arts and Sciences"
   date: "2024-06"
@@ -37,11 +52,6 @@
   outlet: "Yahoo (via Live Science)"
   date: "2023-08"
   url: https://www.yahoo.com/lifestyle/scientists-uncover-hidden-math-governs-110022366.html
-
-- title: "Scientists uncover hidden math that governs genetic mutations"
-  outlet: "MSN (via Live Science)"
-  date: "2023-08"
-  url: https://www.msn.com/en-gb/health/mindandbody/scientists-uncover-hidden-math-that-governs-genetic-mutations/ar-AA1f95OM
 
 - title: "Scientists uncover a surprising connection between number theory and evolutionary genetics"
   outlet: "Phys.org"
@@ -68,6 +78,11 @@
   date: "2023-06"
   url: https://news.mit.edu/2023/hertz-foundation-fellowships-0621
 
+- title: "Hertz Foundation Announces 2023 Hertz Fellows"
+  outlet: "Hertz Foundation"
+  date: "2023-05"
+  url: https://www.hertzfoundation.org/news/fannie-and-john-hertz-foundation-announces-2023-hertz-fellows/
+
 - title: "6 HMS Students Receive Soros Fellowships"
   outlet: "Harvard Medical School"
   date: "2023-04"
@@ -83,20 +98,60 @@
   date: "2023-04"
   url: https://news.mit.edu/2023/paul-daisy-soros-fellowships-new-americans-0425
 
+- title: "2023 Fellows: Announcement in the New York Times"
+  outlet: "Paul & Daisy Soros Fellowships for New Americans"
+  date: "2023-04"
+  url: https://pdsoros.org/2023-fellows-announcement-in-the-new-york-times/
+
 - title: "6 Indian Americans among 2019 Marshall Scholarship recipients"
   outlet: "News India Times"
   date: "2018-12"
   url: https://www.newsindiatimes.com/6-indian-americans-among-2019-marshall-scholarship-recipients/
+
+- title: "Vaibhav Mohanty and Three Other New Marshall Scholars Gaze Ahead"
+  outlet: "India New England News"
+  date: "2018-12"
+  url: https://indianewengland.com/vaibhav-mohanty-and-three-other-new-marshall-scholars-gaze-ahead/
 
 - title: "New Marshall scholars gaze ahead"
   outlet: "Harvard Gazette"
   date: "2018-12"
   url: https://news.harvard.edu/gazette/story/2018/12/harvards-4-new-marshall-scholars-look-ahead/
 
+- title: "Four Harvard Seniors Selected for Marshall Scholarship"
+  outlet: "The Harvard Crimson"
+  date: "2018-12"
+  url: https://www.thecrimson.com/article/2018/12/4/marshall-scholars-2019/
+
+- title: "Four Harvard seniors headed to UK"
+  outlet: "Harvard Gazette"
+  date: "2018-12"
+  url: https://news.harvard.edu/gazette/story/2018/12/four-at-harvard-named-marshall-scholars/
+
 - title: "UK Government announces 2019 Marshall Scholarship winners and largest class in scholarship history"
   outlet: "UK Government / British Embassy"
   date: "2018-12"
   url: https://www.gov.uk/government/news/uk-government-announces-2019-marshall-scholarship-winners-and-largest-class-in-scholarship-history
+
+- title: "2018 Goldwater Scholars Announced"
+  outlet: "APS News"
+  date: "2018-05"
+  url: https://www.aps.org/archives/publications/apsnews/updates/goldwater.cfm
+
+- title: "2018 Goldwater Scholarship Awards"
+  outlet: "Barry Goldwater Scholarship Foundation"
+  date: "2018-03"
+  url: https://goldwaterscholarship.gov/2018-scholar-press-release/
+
+- title: "A medley of makers"
+  outlet: "Harvard SEAS"
+  date: "2018-02"
+  url: https://seas.harvard.edu/news/medley-makers
+
+- title: "Image resolution enhancer wins HackMIT"
+  outlet: "The Tech (MIT)"
+  date: "2017-09"
+  url: https://thetech.com/2017/09/20/hack-mit-2017
 
 - title: "Odisha boy creating waves in USA as a music composer"
   outlet: "Sambad English"
