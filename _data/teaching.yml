@@ -12,7 +12,7 @@
   year: 2024
   term: "Fall 2024"
   level: "Graduate Course"
-  note: "Certificate of Distinction in Teaching, Department of Chemistry and Chemical Biology; perfect 5.0/5.0 evaluations across all categories"
+  note: "Certificate of Distinction in Teaching, Department of Chemistry and Chemical Biology. Perfect 5.0/5.0 student evaluations across all categories."
 
 - place: "Harvard University"
   course: "Chemistry 161: Statistical Thermodynamics"
@@ -52,12 +52,29 @@
   course: "MATLAB Boot Camp"
   role: "Teaching Fellow"
   year: 2017
-  term: "Fall 2016, Spring 2017, Fall 2017"
+  term: "Fall 2017"
+
+- place: "Harvard University"
+  course: "MATLAB Boot Camp"
+  role: "Teaching Fellow"
+  year: 2017
+  term: "Spring 2017"
+
+- place: "Harvard University"
+  course: "MATLAB Boot Camp"
+  role: "Teaching Fellow"
+  year: 2016
+  term: "Fall 2016"
 
 - place: "Charleston County School District"
   role: "Summer Fine Arts Instructor"
   year: 2016
-  term: "June 2015, June 2016"
+  term: "June 2016"
+
+- place: "Charleston County School District"
+  role: "Summer Fine Arts Instructor"
+  year: 2015
+  term: "June 2015"
 
 - place: "Barbara Manaker Piano Studio"
   role: "Instructor of Music Theory"
@@ -67,4 +84,9 @@
 - place: "Charleston County School District"
   role: "Summer Fine Arts Intern"
   year: 2014
-  term: "June 2013, June 2014"
+  term: "June 2014"
+
+- place: "Charleston County School District"
+  role: "Summer Fine Arts Intern"
+  year: 2013
+  term: "June 2013"
