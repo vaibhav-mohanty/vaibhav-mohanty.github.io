@@ -163,6 +163,11 @@
         {{ entry.note | strip }}
       </div>
     {% endif %}
+    {% if entry.prize %}
+      <div class="periodical" style="color: #e8710a !important; font-weight: 500;">
+        {{ entry.prize | strip }}
+      </div>
+    {% endif %}
     {% else %}
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}
