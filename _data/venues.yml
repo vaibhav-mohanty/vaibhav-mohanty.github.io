@@ -1,11 +1,14 @@
-"Talk":
-  color: "#00ab37"
-
-"Paper Talk":
-  color: "#00ab37"
-
 "Invited Talk":
-  color: "#006b23"
+  color: "#00561c"
+
+"Selected Talk":
+  color: "#1e7b34"
+
+"Contributed Talk":
+  color: "#0f9d7a"
+
+"Invited Panel":
+  color: "#a67c00"
 
 "Poster":
   color: "#1f3c88"
