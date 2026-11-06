@@ -1,11 +1,11 @@
 "Invited Talk":
-  color: "#00561c"
+  color: "#0f9d7a"
 
 "Selected Talk":
   color: "#1e7b34"
 
 "Contributed Talk":
-  color: "#0f9d7a"
+  color: "#00561c"
 
 "Invited Panel":
   color: "#a67c00"
